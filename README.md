@@ -1,6 +1,6 @@
 ### Olá!! eu sou o Rodrigo Coutinho.
 
-[![Instagram Pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digocoutinho_/)
+[![Instagram Pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digocoutinho/)
 
 ![Rodrigo Coutinho GitHub stats](https://github-readme-stats.vercel.app/api?username=digocoutinho78&show_icons=true&theme=radical)
 
