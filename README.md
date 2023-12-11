@@ -1,5 +1,6 @@
 ### Olá!! eu sou o Rodrigo Coutinho.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digocoutinho/)
 [![Instagram Pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digocoutinho/)
 
 ![Rodrigo Coutinho GitHub stats](https://github-readme-stats.vercel.app/api?username=digocoutinho78&show_icons=true&theme=radical)
