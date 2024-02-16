@@ -17,7 +17,7 @@
 
 <div style="display inline-block"><br>
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white">
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-FDAA44?style=for-the-badge&logo=java&logoColor=white">
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
